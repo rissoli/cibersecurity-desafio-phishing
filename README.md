@@ -44,7 +44,7 @@
   
 - URL para clone: http://www.facebook.com
 
-![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/78cbca6b-ccd5-469f-89cb-971479375993)
+![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/7e9e01c2-c884-4d39-99c0-a4de3f476890)
 
 
 ![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/6666713c-35a3-48a4-b462-50777fce18c4)
