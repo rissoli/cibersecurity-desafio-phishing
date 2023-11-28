@@ -12,43 +12,37 @@
   
 - Iniciando o setoolkit: ``` setoolkit ```
 
+- Tipo de ataque: ``` Social-Engineering Attacks ```
+
 ![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/2d47b594-960b-4f8c-a71f-23fd0ac769ee)
 
 
-- Tipo de ataque: ``` Social-Engineering Attacks ```
-  
-![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/37cf48c7-729c-4946-b4a3-c79c604e1c9e)
-
-
-
 - Vetor de ataque: ``` Web Site Attack Vectors ```
-  
-![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/eadd7e3e-341b-429d-8a26-31df3f760903)
 
+![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/39e24752-6eb9-4b1b-a3d4-4a2000f75faf)
 
 
 - Método de ataque: ```Credential Harvester Attack Method ```
   
-![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/f093c12a-b823-4100-bbd3-414b7abe6a92)
+![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/b90c2750-962e-4baf-b8a4-c3ddaf9f18f1)
 
-  
+
 - Método de ataque: ``` Site Cloner ```
-  
-![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/4658c829-ac3b-44fa-b2e2-e88f0d5b7672)
+
+![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/afaf376e-bbed-43bf-83aa-59b42fc400b3)  
 
   
 - Obtendo o endereço da máquina: ``` ifconfig ```
   
-![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/2eed5324-a32a-4374-95e1-3edfa439353a)
+![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/abb186d3-a5ae-4fa5-a4e8-74cfd8ecc5e7)
+
+
+![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/50305083-507d-4ee9-be2b-7bd5874373b3)
 
   
 - URL para clone: http://www.facebook.com
 
 ![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/7e9e01c2-c884-4d39-99c0-a4de3f476890)
-
-
-![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/6666713c-35a3-48a4-b462-50777fce18c4)
-
 
 
 ### Resutados
