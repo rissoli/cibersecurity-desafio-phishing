@@ -4,16 +4,15 @@
 
 - Kali Linux
 - setoolkit
+- cat
 
 ### Configurando o Phishing no Kali Linux
 
 - Acesso root: ``` sudo su ```
+  
 - Iniciando o setoolkit: ``` setoolkit ```
 
 ![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/2d47b594-960b-4f8c-a71f-23fd0ac769ee)
-
-
-
 
 
 - Tipo de ataque: ``` Social-Engineering Attacks ```
@@ -56,8 +55,10 @@
 
 - Print da execução
 
-![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/7a24e73c-21b1-49ad-967b-75af309ee565)
+![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/a009d710-73d2-4115-809b-c707f47cdaa7)
+
 
 - Print do XML de report
 
-![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/f7eb56b2-d528-4834-9178-197f42ac4f70)
+![image](https://github.com/rissoli/cibersecurity-desafio-phishing/assets/40303079/66eb60e8-25dc-4049-b073-9c5d03ff9275)
+
